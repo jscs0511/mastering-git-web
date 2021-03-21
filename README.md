@@ -1,5 +1,13 @@
 # 신뢰있는 맛집탐색 어플리케이션 개발
 
-This repository houses a proposed website for the Mastering Git book.
+##가장 큰 목적은 리뷰의 신뢰도 향상
 
-Contact: mwkoo@sogang.ac.kr
+---
+
+기존의 맛집 찾기 어플의 기능의 아쉬움들을 보완하여,
+레이팅 제도의 개선 및 디테일을 확대할 계획입니다.
+
+또한 GPS인증, 주변 학교 학생 인증 등등 다양한 인증 방법을 통하여
+리뷰의 신뢰성을 재고하고자 합니다.
+
+---
